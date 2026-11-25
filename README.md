@@ -5,7 +5,7 @@ Interactive UI components with **zero JavaScript**. One stylesheet, no build ste
 Modal, drawer, dropdown menu, tooltip, tabs and accordion, built only from native HTML and modern CSS:
 Popover API, `<dialog>`, `<details name>`, `:has()`, CSS anchor positioning, `@starting-style`, `light-dark()`.
 
-**Live demo:** https://YOUR_USERNAME.github.io/nojs-ui/
+**Live demo:** https://bzprince.github.io/Nojs-ui/
 
 ## Install
 
