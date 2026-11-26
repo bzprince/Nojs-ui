@@ -10,10 +10,10 @@ Popover API, `<dialog>`, `<details name>`, `:has()`, CSS anchor positioning, `@s
 ## Install
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/YOUR_USERNAME/nojs-ui@main/css/nojs-ui.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/bzprince/Nojs-ui@main/nojs-ui.css">
 ```
 
-Or copy `css/nojs-ui.css` into your project. That's the whole library.
+Or copy `nojs-ui.css` into your project. That's the whole library.
 
 ## Components
 
